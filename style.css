@@ -1,0 +1,45 @@
+.center {
+  background-color: #7dc7ff;
+  border: 2.5px solid;
+  margin: auto;
+  width: 50%;
+ 
+  padding: 5px;
+}
+#convert {
+    background-color: #3f0423;
+  }
+
+  #convert:hover {
+    background-color: #740869;
+  }
+  h1 {
+    font-family: sans-serif;
+    color: #000000;
+  }
+  input {
+    display: block;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 2em;
+    color: #000000;
+    font-family: cursive, sans-serif;
+    align-content: center;
+  }
+  ::-webkit-input-placeholder {
+     color: #ccc;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+     color: #ccc;  
+  }
+  ::-moz-placeholder {  /* Firefox 19+ */
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #eab8d5;
+  }
